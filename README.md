@@ -1,4 +1,4 @@
-# automate-_rolling_villegars_minecraft
+# automate_rolling_villegars_minecraft
 An application written in python to automate the monotonous task of rolling librarian villagers, over and over again.
 I have added a demo video of my using this script, below.
 
