@@ -2,12 +2,6 @@ import pyautogui
 import time
 from pynput import keyboard
 import os
-import requests
-from PIL import Image
-import cv2
-import numpy as np
-import pytesseract
-import difflib
 import easyocr
 
 reader = easyocr.Reader(['en'], gpu=False)
